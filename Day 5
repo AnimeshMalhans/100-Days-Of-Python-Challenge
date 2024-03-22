@@ -1,0 +1,7 @@
+y = ((input("Enter first number:")))
+x =((input("Enter the second number:")))
+print(y - x)
+
+y = (float(input("Enter first number:")))
+x =(float(input("Enter the second number:")))
+print(y + x)
